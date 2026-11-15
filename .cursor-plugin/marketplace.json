@@ -1,0 +1,25 @@
+{
+  "name": "octobermc-unslop-ui-portable",
+  "owner": {
+    "name": "octobermc"
+  },
+  "metadata": {
+    "description": "One Cursor plugin with the unslop-ui skill, a portable adaptation of Damir Sokolovsky's unslop UI skill. Component discovery is limited to cursor-plugins/unslop-ui-portable. This marketplace has no hooks, MCP servers, rules, agents, commands, or installer."
+  },
+  "plugins": [
+    {
+      "name": "unslop-ui-portable",
+      "source": "cursor-plugins/unslop-ui-portable",
+      "description": "Portable adaptation of Damir Sokolovsky's unslop UI skill, named unslop-ui to avoid colliding with the writing skill named unslop. Keeps snapshot and story-video scripts. CC BY 4.0.",
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "repository": "https://github.com/octobermc/unslop-ui-portable",
+      "keywords": [
+        "skills",
+        "unslop-ui",
+        "ui",
+        "design"
+      ]
+    }
+  ]
+}
