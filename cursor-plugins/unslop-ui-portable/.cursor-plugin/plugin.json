@@ -1,0 +1,21 @@
+{
+  "name": "unslop-ui-portable",
+  "version": "1.0.0",
+  "description": "Portable adaptation of Damir Sokolovsky's unslop UI skill as unslop-ui. Keeps snapshot and story-video scripts. No hooks, rules, agents, commands, MCP servers, or installer scripts.",
+  "author": {
+    "name": "Damir Sokolovsky",
+    "url": "https://github.com/heydamir"
+  },
+  "homepage": "https://github.com/heydamir/unslop",
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/octobermc/unslop-ui-portable",
+  "keywords": [
+    "skills",
+    "unslop-ui",
+    "ui",
+    "design"
+  ],
+  "skills": [
+    "./skills/unslop-ui"
+  ]
+}
